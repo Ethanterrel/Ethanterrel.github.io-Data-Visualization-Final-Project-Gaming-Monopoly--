@@ -4,10 +4,10 @@ _**By:Ethan Lewis**_
 
 ## Description ##
 The Visualization demonstrates how major publishing companies (Microsoft, Sony, THQ) are buying up developers. The triangles represent acquired companies that are 
-made up of 5 or more studios, while the circles represent standalone studios that were acquired. When the Visualization is run two things should be very evident, that verify the Viz is working accordingly, Sony should have the most circles since they’ve mostly acquired standalone studios and Microsoft should have the most triangles 
+made up of 5 or more studios, while the circles represent standalone studios that were acquired. When the Visualization is run two things should be very evident, that verify the Vizualiation is working accordingly, Sony should have the most circles since they’ve mostly acquired standalone studios and Microsoft should have the most triangles 
 Due since they acquire more companies. As for the other categories, Indies should hold 0 triangles, THQ should have a decent number of both, and other should have more triangles than circles.
 ## Installation Directions ##
-You can either run the visualization through this site: https://fatherrabi.github.io/GamingMonopoly/
+You can either run the visualization through this site: https://ethanterrel.github.io/Ethanterrel.github.io-Data-Visualization-Final-Project-Gaming-Monopoly-/ 
 
 OR clone the repo and then you should be able to run the code in your IDE of choice.
 ## Lessons Learned ##
