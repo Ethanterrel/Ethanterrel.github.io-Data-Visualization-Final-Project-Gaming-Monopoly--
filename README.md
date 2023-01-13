@@ -1,4 +1,4 @@
-## Gaming Monopoly _**(Intro to visualization final porject)**_ ##
+## Gaming Monopoly _**(Intro to visualization final project)**_ ##
 _**By:Ethan Lewis**_
 
 
